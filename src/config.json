@@ -1,39 +1,39 @@
 {
   "site": {
-    "url": "https://gyoza.lxchapu.com",
-    "title": "Gyoza",
-    "description": "这是一个使用 Astro 和 React 开发的博客主题。",
-    "keywords": "Gyoza,blog,Astro,theme,lxchapu,博客主题",
+    "url": "https://kemiao.kemeow.cn",
+    "title": "克喵の次元站",
+    "description": "这是一个使用 Astro 和 React 开发的博客，致力于分享资源和博客~",
+    "keywords": "克喵,blog,Astro,theme,资源,网站",
     "lang": "zh-CN",
     "favicon": "/favicon.ico",
     "appleTouchIcon": "/apple-touch-icon.png"
   },
   "author": {
-    "name": "lxchapu",
-    "twitterId": "@lxchapu",
-    "avatar": "https://s2.loli.net/2024/04/30/ozsnuS5Ihf3xMBG.webp"
+    "name": "克喵爱吃卤面",
+    "twitterId": "@kemiaosw",
+    "avatar": "https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/touxiang.jpg"
   },
   "hero": {
-    "name": "Gyoza",
-    "bio": "A static blog template build with Astro and React.",
-    "description": "Clean, Cute, Fast.",
+    "name": "克喵爱吃卤面",
+    "bio": "致力于分享资源和生活~",
+    "description": "Blog, Website, App, Dailylife, Resource.",
     "socials": [
       {
         "name": "Github",
         "icon": "icon-github",
-        "url": "https://github.com/lxchapu/astro-gyoza",
+        "url": "https://github.com/Kemeow815",
         "color": "rgb(24, 23, 23)"
       },
       {
-        "name": "X",
-        "icon": "icon-x",
-        "url": "https://twitter.com/lxchapu",
+        "name": "telegram",
+        "icon": "icon-telegram",
+        "url": "https://t.me/kemiaofx_me",
         "color": "rgb(36, 46, 54)"
       },
       {
         "name": "Email",
         "icon": "icon-mail",
-        "url": "mailto:lxchapu@outlook.com",
+        "url": "mailto:kemiao@kmblog.icu",
         "color": "rgb(212, 70, 56)"
       }
     ],
